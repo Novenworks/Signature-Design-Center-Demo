@@ -1,0 +1,163 @@
+[
+  {
+    "name": "signature-logo.jpg",
+    "url": "http://ocremodel.com/wp-content/uploads/2019/01/signature-logo.jpg",
+    "intendedSection": "Header, Footer, About",
+    "bytes": 10042,
+    "status": "OK"
+  },
+  {
+    "name": "hero-kitchen-luxury.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/01/1491391_609278085872119_8719034690420433368_o1.jpg",
+    "intendedSection": "Hero Main",
+    "bytes": 217801,
+    "status": "OK"
+  },
+  {
+    "name": "hero-showroom-kitchen.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2017/05/wide6.jpg",
+    "intendedSection": "Showroom Spotlight & Background",
+    "bytes": 281634,
+    "status": "OK"
+  },
+  {
+    "name": "hero-kitchen-contemporary.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/01/11350918_654804954652765_7211909121687618248_n.jpg",
+    "intendedSection": "Kitchen Services Feature",
+    "bytes": 90245,
+    "status": "OK"
+  },
+  {
+    "name": "service-residential.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/01/11057230_700709740062286_8697393686921654902_n.jpg",
+    "intendedSection": "Services - Residential Design",
+    "bytes": 76790,
+    "status": "OK"
+  },
+  {
+    "name": "service-commercial.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/02/p3_a.jpg",
+    "intendedSection": "Services - Commercial / Office Renovations",
+    "bytes": 85244,
+    "status": "OK"
+  },
+  {
+    "name": "service-kitchen-bath.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/01/11243471_661540133979247_7363488633083963368_n.jpg",
+    "intendedSection": "Services - Kitchen & Bathroom Design",
+    "bytes": 83783,
+    "status": "OK"
+  },
+  {
+    "name": "about-craftsmanship.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2016/11/misc_1.png",
+    "intendedSection": "About / 40-Year Heritage",
+    "bytes": 414338,
+    "status": "OK"
+  },
+  {
+    "name": "showroom-interior.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2016/10/deco_3.png",
+    "intendedSection": "Showroom Materials & Finishes",
+    "bytes": 406938,
+    "status": "OK"
+  },
+  {
+    "name": "project-kitchen-island.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/74505856_1037587156573496_5303108987816771584_n-700x466.jpg",
+    "intendedSection": "Portfolio - Kitchen",
+    "bytes": 37584,
+    "status": "OK"
+  },
+  {
+    "name": "project-living-room-open.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/118018125_1280927765572766_2072742979848732718_n-700x466.jpg",
+    "intendedSection": "Portfolio - Living Spaces",
+    "bytes": 66122,
+    "status": "OK"
+  },
+  {
+    "name": "project-living-fireplace.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/74614030_1029445720720973_5755618968232525824_n-700x466.jpg",
+    "intendedSection": "Portfolio - Living & Fireplace",
+    "bytes": 37651,
+    "status": "OK"
+  },
+  {
+    "name": "project-bath-walkin-shower.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/117583986_1280927782239431_1719298886421458079_n-700x466.jpg",
+    "intendedSection": "Portfolio - Bathroom Walk-in Shower",
+    "bytes": 58395,
+    "status": "OK"
+  },
+  {
+    "name": "project-bath-double-vanity.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/120647494_1322921414706734_7048449063078033396_n-700x466.jpg",
+    "intendedSection": "Portfolio - Bathroom Double Vanity",
+    "bytes": 38329,
+    "status": "OK"
+  },
+  {
+    "name": "project-bath-spa-tile.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/117910546_1280946388904237_3373279756449555174_n-700x466.jpg",
+    "intendedSection": "Portfolio - Spa Bath & Tile",
+    "bytes": 36462,
+    "status": "OK"
+  },
+  {
+    "name": "project-kitchen-farmhouse.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/73539201_1029438914054987_8609798931708116992_n-700x466.jpg",
+    "intendedSection": "Portfolio - Farmhouse Kitchen",
+    "bytes": 59863,
+    "status": "OK"
+  },
+  {
+    "name": "project-kitchen-modern-white.jpg",
+    "url": "https://ocremodel.com/wp-content/uploads/2020/11/61739641_912749042390642_7123920833487044608_n-700x466.jpg",
+    "intendedSection": "Portfolio - Modern White Kitchen",
+    "bytes": 45400,
+    "status": "OK"
+  },
+  {
+    "name": "partner-ultracraft.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/02/ultracraft-logo-white.png",
+    "intendedSection": "Proof Strip - Brand Partner",
+    "bytes": 4361,
+    "status": "OK"
+  },
+  {
+    "name": "partner-silestone.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2019/02/TBS-logos_left_0000s_0010_Silestone.png",
+    "intendedSection": "Proof Strip - Brand Partner",
+    "bytes": 10934,
+    "status": "OK"
+  },
+  {
+    "name": "process-meet.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2015/08/meeting.png",
+    "intendedSection": "Process Step 1",
+    "bytes": 29945,
+    "status": "OK"
+  },
+  {
+    "name": "process-concept.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2015/08/idea.png",
+    "intendedSection": "Process Step 2",
+    "bytes": 28450,
+    "status": "OK"
+  },
+  {
+    "name": "process-design.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2015/08/design.png",
+    "intendedSection": "Process Step 3",
+    "bytes": 28542,
+    "status": "OK"
+  },
+  {
+    "name": "process-build.png",
+    "url": "https://ocremodel.com/wp-content/uploads/2015/08/build.png",
+    "intendedSection": "Process Step 4",
+    "bytes": 31654,
+    "status": "OK"
+  }
+]

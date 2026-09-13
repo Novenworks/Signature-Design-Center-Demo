@@ -1,0 +1,52 @@
+[
+  {
+    "viewport": "Desktop (1440px)",
+    "width": 1440,
+    "status": 200,
+    "hasHorizontalOverflow": false,
+    "brokenImagesCount": 0,
+    "brokenImages": [],
+    "consoleErrorsCount": 0,
+    "failedRequestsCount": 0
+  },
+  {
+    "viewport": "Laptop (1024px)",
+    "width": 1024,
+    "status": 200,
+    "hasHorizontalOverflow": false,
+    "brokenImagesCount": 0,
+    "brokenImages": [],
+    "consoleErrorsCount": 0,
+    "failedRequestsCount": 0
+  },
+  {
+    "viewport": "Tablet (768px)",
+    "width": 768,
+    "status": 200,
+    "hasHorizontalOverflow": false,
+    "brokenImagesCount": 0,
+    "brokenImages": [],
+    "consoleErrorsCount": 0,
+    "failedRequestsCount": 0
+  },
+  {
+    "viewport": "Mobile (390px)",
+    "width": 390,
+    "status": 200,
+    "hasHorizontalOverflow": false,
+    "brokenImagesCount": 0,
+    "brokenImages": [],
+    "consoleErrorsCount": 0,
+    "failedRequestsCount": 0
+  },
+  {
+    "viewport": "Outreach Route (1440px)",
+    "width": 1440,
+    "status": 200,
+    "hasHorizontalOverflow": false,
+    "brokenImagesCount": 0,
+    "brokenImages": [],
+    "consoleErrorsCount": 0,
+    "failedRequestsCount": 0
+  }
+]
