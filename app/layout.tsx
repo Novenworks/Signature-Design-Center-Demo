@@ -13,6 +13,7 @@ export const metadata: Metadata = {
     'Custom Cabinets Anaheim CA',
     'CSLB 924506'
   ],
+  robots: { index: false, follow: false },
   openGraph: {
     title: 'Signature Design Center | Showroom-Backed Kitchen & Bath Remodeling',
     description: 'See the remodel before you commit to the project. 40 years of trusted craftsmanship, Anaheim showroom, and verified CSLB license #924506.',
